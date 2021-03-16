@@ -3,7 +3,7 @@ This is the software portion of the MIVCOTS project.
 The dev team has not yet selected an specific license for the project, but if you would like to use or contribute to the project, feel free to contact us.
 
 ## Cloning
-Use the command "git clone --recurse-submodules -j8 https://github.com/pdxfrog/MIVCOTS_SOFTWARE.git" to also clone the submodules.
+Use the command "git clone --recurse-submodules -j8 https://github.com/UABaja/MIVCOTS-Public.git" to also clone the submodules.
 
 ## To pull submodules into an already cloned repository, run:
 #git submodule init
@@ -24,7 +24,7 @@ Use the command "git clone --recurse-submodules -j8 https://github.com/pdxfrog/M
    Make sure to include a backslash on the end: "C:\wxWidgets-3.0.3\\"
 
 ## Other Requirements
-1. Add another environemnt variable "C:\Users\Sean\Documents\MIVCOTS_SOFTWARE\projects\mivcots\Resources\" with the variable name "MivcotsResources"
+1. Add another environemnt variable "C:\Users\[USER]\Documents\MIVCOTS_SOFTWARE\projects\mivcots\Resources\" with the variable name "MivcotsResources"
 ## Testing with com0com
 
 Install com0com https://sourceforge.net/projects/com0com/
