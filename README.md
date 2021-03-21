@@ -24,7 +24,7 @@ Use the command "git clone --recurse-submodules -j8 https://github.com/UABaja/MI
    Make sure to include a backslash on the end: "C:\wxWidgets-3.0.3\\"
 
 ## Other Requirements
-1. Add another environemnt variable "C:\Users\[USER]\Documents\MIVCOTS_SOFTWARE\projects\mivcots\Resources\\" with the variable name "MivcotsResources"
+1. Add another environemnt variable "C:\Users\\[USER]\Documents\MIVCOTS_SOFTWARE\projects\mivcots\Resources\\" with the variable name "MivcotsResources"
 ## Testing with com0com
 
 Install com0com https://sourceforge.net/projects/com0com/
